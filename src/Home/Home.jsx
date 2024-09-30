@@ -2,8 +2,8 @@
 
 /*const Container = styled.div`
   padding: 20px;
-  color: #333;
-`;*/
+  color: #555;
+`; */
 
 import { useNavigate } from 'react-router-dom';
 
